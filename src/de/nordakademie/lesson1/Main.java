@@ -1,7 +1,5 @@
-package de.nordakademie;
+package de.nordakademie.lesson1;
 
-
-import org.w3c.dom.css.Rect;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package de.nordakademie;
+package de.nordakademie.lesson1;
 
 import java.lang.Math.*;
 
