@@ -1,4 +1,4 @@
-package de.nordakademie.lesson1;
+package de.nordakademie.geometrics.calculate;
 
 public class Rectangle {
 

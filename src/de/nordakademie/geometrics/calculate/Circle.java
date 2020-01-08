@@ -1,6 +1,4 @@
-package de.nordakademie.lesson1;
-
-import java.lang.Math.*;
+package de.nordakademie.geometrics.calculate;
 
 public class Circle {
 
