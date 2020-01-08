@@ -9,7 +9,7 @@ import de.nordakademie.geometrics.print.DiamondRecursive;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// Main funktion
         System.out.println("Hello World");
         execCalculateForms(5,4,7);
         execDiamondPrint(10);
